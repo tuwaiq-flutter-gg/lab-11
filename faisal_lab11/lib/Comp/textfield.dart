@@ -12,7 +12,7 @@ class textfield extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.all(15),
       child: TextField(
-        //  controller: nameCO,
+        controller: co,
         decoration: InputDecoration(
           border: OutlineInputBorder(
             borderRadius: BorderRadius.circular(10),

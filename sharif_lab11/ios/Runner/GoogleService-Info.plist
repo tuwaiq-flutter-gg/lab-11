@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>745031365608-1a0en16v5c4v3hbl620rr2pl6f8h6j2h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.745031365608-1a0en16v5c4v3hbl620rr2pl6f8h6j2h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC6o4ImdQ_lfBlhURcJqVxWUpYwXx4cDkU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>745031365608</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.sharifLab11</string>
+	<key>PROJECT_ID</key>
+	<string>fir-flutter-codelab-62930</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-flutter-codelab-62930.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:745031365608:ios:b05e2a6d0f32e9f287ea5d</string>
+</dict>
+</plist>

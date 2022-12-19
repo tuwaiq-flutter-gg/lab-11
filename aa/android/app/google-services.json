@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855123307886",
+    "project_id": "testi-2926c",
+    "storage_bucket": "testi-2926c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855123307886:android:890fbb4179b6ddeb78e57f",
+        "android_client_info": {
+          "package_name": "com.example.aa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855123307886-lub4c6sfi8v0dl7ne52taueqbhlka64r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHeUzKy_MjfX0S88fg1Uga2xOgPYHJVkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855123307886-lub4c6sfi8v0dl7ne52taueqbhlka64r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

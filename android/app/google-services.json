@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "720380363214",
+    "project_id": "flutterlab11",
+    "storage_bucket": "flutterlab11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720380363214:android:be5f484555d6b56c44eb9f",
+        "android_client_info": {
+          "package_name": "com.example.hadeel_lab11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720380363214-kp6mgqg5o2eufapettgnt1jbop3vj6t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8OGhkcbkmoBNRPEt1RUYWByBNxB4pQNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720380363214-kp6mgqg5o2eufapettgnt1jbop3vj6t6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "720380363214-6m8j7r176qnjk74ld8ulju65c24r4lnt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hadeelLab11"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

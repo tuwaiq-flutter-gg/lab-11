@@ -52,3 +52,8 @@ printdata() {
   //pront data
   return instance.currentUser?.metadata.toString();
 }
+
+update({required UEmail}) {
+  var user = instance.currentUser!.updateEmail(UEmail);
+  
+}

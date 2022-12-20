@@ -17,8 +17,13 @@ TextEditingController earController=TextEditingController();
 
                  textTitle(key: null,texTitle: "Username",),
                 textField(                  
+                  titlee: 'Username', isPass: true, myController: earController
+                  ),
+                textTitle(key: null,texTitle: "Password",),
+                textField(                  
                   titlee: 'Password', isPass: true, myController: earController
                   ),
+
                 buttons(
                   
                   buttonCaption: "Sign in",

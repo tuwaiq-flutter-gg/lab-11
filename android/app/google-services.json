@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343781163850",
+    "project_id": "lap011",
+    "storage_bucket": "lap011.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343781163850:android:210534fab2c4e01d63b7b3",
+        "android_client_info": {
+          "package_name": "com.example.lap11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343781163850-3v8p5s2invdfb8grlg64ekl7f0tsh8pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZI-w0GhUCvyC0eYCsoSTCHEDmHueRt9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343781163850-3v8p5s2invdfb8grlg64ekl7f0tsh8pf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

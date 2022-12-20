@@ -1,7 +1,16 @@
-# lab-11
+# login_design
 
-## Build a Sign-in page that contains Email, Password. After Signing in you’ll show the Home page containing `ID`, `Email`, and `Creation Day`. The user can update his/her email then if he/she signs out they should be able to sign in with the updated email.
+A new Flutter project.
 
-### Note accepted submission MUST contain app demo record!
+## Getting Started
 
-Note: Name your app Your name-lab11
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

@@ -1,0 +1,53 @@
+{
+  "@@locale" :   "en" ,
+  "email": "Email",
+  "@email": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "not_valid_email": "Not Valid Email",
+  "@not_valid_email": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "password",
+  "@password": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password_is_too_short": "password is too short",
+  "@password_is_too_short": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "Login",
+  "@login": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "terms": "Check Terms & Conditions",
+  "@terms": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgetPassword": "Forget Password?",
+  "@forgetPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginSubText": "Login & enjoy!",
+  "@loginSubText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signUp": "Sign Up",
+  "@signUp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "language": "عربي",
+  "@language": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

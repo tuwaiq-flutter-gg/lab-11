@@ -1,0 +1,54 @@
+{
+  "@@locale" :   "ar" ,
+  "@@last_modified": "2018-05-20T17:16:46.997414",
+  "email": "البريد الإلكتروني",
+  "@email": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "not_valid_email": "البريد الإلكتروني غير صحيح",
+  "@not_valid_email": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "كلمة المرور",
+  "@password": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password_is_too_short": "كلمة المرور غير صحيحه",
+  "@password_is_too_short": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "تسجيل الدخول",
+  "@login": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "language": "English",
+  "@language": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgetPassword": "هل نسيت كلمة السر؟",
+  "@forgetPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "terms": "تحقق من الشروط والأحكام",
+  "@terms": {
+    "type": "text",
+    "placeholders": {}
+  },
+    "signUp": "تسجيل الدخول",
+  "@signUp": {
+    "type": "text",
+    "placeholders": {}
+  },
+    "loginSubText": "سجل الدخول واستمتع!",
+  "@loginSubText": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
